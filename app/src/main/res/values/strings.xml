@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WeatherCast</string>
+    <string name="weather_matters_n_we_ve_got_the_details">Weather Matters,\n We\'ve Got the Details</string>
+    <string name="design_by_n_aditya_hegde">DESIGN BY \n Aditya Hegde</string>
+    <string name="max_00_00_c">Max : 00:00 C</string>
+    <string name="design_by_aditya_hegde">Design by Aditya Hegde</string>
+    <string name="sea">Sea</string>
+    <string name="_00_00_c">00:00 C</string>
+    <string name="_14_january_2025">14 january 2025</string>
+    <string name="_0_0">0.0%</string>
+    <string name="humidity">Humidity</string>
+    <string name="_00_00">00:00</string>
+    <string name="wind">Wind</string>
+    <string name="sunny">SUNNY</string>
+    <string name="condition">Condition</string>
+</resources>
