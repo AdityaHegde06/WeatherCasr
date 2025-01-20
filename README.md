@@ -35,8 +35,4 @@ Copy
 Edit
 git clone https://github.com/AdityaHegde06/WeatherCasr.git
 
-Open the project in Android Studio.
-Add your API key:
-Go to MainActivity.kt.
-Replace YOUR_API_KEY with your OpenWeatherMap API key.
-Run the app on an emulator or physical device.
+
